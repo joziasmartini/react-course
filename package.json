@@ -1,0 +1,26 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">react-course</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joziasmartini/react-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joziasmartini/react-course/issues"
+  },
+  "homepage": "https://github.com/joziasmartini/react-course#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13"
+  }
+}
